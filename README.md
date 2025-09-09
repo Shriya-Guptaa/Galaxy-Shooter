@@ -81,6 +81,7 @@ galaxy-shooter/
 │── game_functions.py    # Core game logic (drawing, movement, bullets, etc.)
 │── constants.py         # Global variables (dimensions, colors, fonts, assets)
 │── requirements.txt     # Required Python libraries (pygame)
+|── .gitignore           # Files to be ignored by Github
 │── Assets/              # Images and sound effects used in the game
 ```
 
