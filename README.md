@@ -28,6 +28,11 @@ Players can control their spaceships, shoot at each other, and try to deplete th
 👉 The first player to reduce their opponent's health to **zero** wins the round.
 
 ---
+## A small snippet of the game
+
+https://github.com/user-attachments/assets/6aee0521-5392-484c-bf3f-d2026d70ec55
+
+---
 
 ## 💻 Installation
 
